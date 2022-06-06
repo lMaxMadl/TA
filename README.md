@@ -7,4 +7,4 @@
 
 برای استفاده نیاز به نصب dependations ها هست 
 
- ![Alt text](/assets/img.jpg?raw=true "Title")
+ ![Alt text](/assets/icon.ico?raw=true "Title")
